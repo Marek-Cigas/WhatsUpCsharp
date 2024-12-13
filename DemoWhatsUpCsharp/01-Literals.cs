@@ -19,14 +19,14 @@ class Program
         
         //StaticAbstractDemo.Demonstrate();
         
-        ListPatternsDemo.Demonstrate();
+        //ListPatternsDemo.Demonstrate();
         
-        /*
-         Primary Constructors for Classes
-         Collection Expressions
-            Ref Fields
-Alias Any Type
-Lambda Improvements
-         */
+        //PrimaryConstructorsDemo.Demonstrate();
+        
+        //var expressionDemo = new CollectionExpressionDemo();
+        //expressionDemo.Demonstrate();
+        
+        var lambdaDemo = new LambdaImprovementsDemo();
+        lambdaDemo.Demonstrate();
     }
 }
