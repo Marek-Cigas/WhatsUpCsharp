@@ -13,7 +13,7 @@ class Program
                    }
                    """;
               
-        //Console.WriteLine(json);
+        Console.WriteLine(json);
         
         //EnhancedPerson.PatternDemo();
         
@@ -26,7 +26,7 @@ class Program
         //var expressionDemo = new CollectionExpressionDemo();
         //expressionDemo.Demonstrate();
         
-        var lambdaDemo = new LambdaImprovementsDemo();
-        lambdaDemo.Demonstrate();
+        //var lambdaDemo = new LambdaImprovementsDemo();
+        //lambdaDemo.Demonstrate();
     }
 }
